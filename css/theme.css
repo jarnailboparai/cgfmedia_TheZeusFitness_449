@@ -143,7 +143,7 @@
 @media (min-width: 400px) {
 .theme_bg
 {
-	background-image:url(../images/app449land.jpg) ;
+	background-image:url(../images/app449land.jpeg) ;
 	background-repeat:no-repeat;
 	background-size:cover;	
 }
@@ -151,7 +151,7 @@
 @media (min-width: 100px) and (max-width: 399px) {
 .theme_bg
 {
-	background-image:url(../images/app449port.jpg) ;
+	background-image:url(../images/app449port.jpeg) ;
 	background-repeat:no-repeat;
 	background-size:cover;	
 }
